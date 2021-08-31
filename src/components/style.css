@@ -1,0 +1,304 @@
+.top{
+    
+     
+    background: url('top.jpg')no-repeat center center/cover; 
+    height: 100vh;
+    
+   margin-top: -67px;
+   display: flex;
+   flex-direction: row;
+
+}
+.img{
+    background: url('book.png')no-repeat center center/cover; 
+    height: 70px;
+    width: 70px;
+    margin-left: 70%;
+}
+.logo{
+    background: url('adam-kring-j1RpMqas82o-unsplash.jpg')no-repeat center center/cover;
+    height: 70px;
+    width: 70px;
+    margin-top: 20%;
+    margin-left: 85px;
+    margin-bottom: -50px;
+}
+.toph1{
+    color: white;
+    font-size: 5rem;
+    
+    padding-top: 2%;
+    margin-left: 85px;
+    /* padding-left: 5%; */
+    margin-bottom: -30px;
+}
+.toph2{
+    color: white;
+    font-size: 2rem;
+    margin-left: 85px;
+    margin-bottom: 90px;
+}
+.btn1{
+    margin-left: 85px;
+    padding: 15px 30px;
+    font-size: 1.5rem;
+    border-radius: 12px 0px 0px 12px;
+    /* margin-top: 80px; */
+}
+.btn2{
+    background-color: black;
+    color: white;
+    border: black;
+    padding: 17px 30px;
+    font-size: 1.5rem;
+    border-radius: 0px 12px 12px 0px;
+   
+    
+}
+
+.righttop{
+    padding-top: 7%;
+    padding-left: 12%;
+}
+.right1{
+padding-left: 16%;
+
+}
+.right1 button{
+    font-size: 1.7rem;
+    border: none;
+    background-color:transparent;
+    padding-left:60px;
+    padding-right: 0px;
+    margin-right: 0%;
+    /* padding-right: 30px; */
+   font-weight: bold;
+   
+}
+
+.right2{
+padding-top: 130px;
+font-size: 1.1rem;
+color: white;
+}
+.right2 input{
+    width: 350px;
+    height: 30px;
+    padding-left: 20px;
+    padding-top: 6px ;
+    padding-bottom: 6px;
+    border-radius: 23px;
+    border-radius: white;
+    border: none;
+    outline: none;
+} 
+.right h2{
+   
+}
+
+
+
+.welcome{
+    
+    display: flex;
+    flex-direction:row ;
+}
+.left{
+    
+    width: 55%;
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+
+}
+.right{
+    
+    
+    width: 50%;
+    padding: 12px;
+    background: url('wlecome.jpg')no-repeat center center/cover;
+    margin: 10px;
+}
+.wlcmh1{
+    font-size: 4rem;
+    margin-top: -30px;
+}
+.wlcmh3{
+    font-size: 1.3rem;
+    margin-top: -45px;
+}
+.left p{
+    margin-top: 40px;
+}
+
+
+
+
+
+/* featured book  */
+.items{
+    
+    display: flex;
+    flex-direction: row;
+    margin: 20px;
+    padding: 10px;
+    justify-content: center;
+}
+.box1{
+    
+    background: url('img2.jpg')no-repeat center center/cover;
+    height: 55vh;
+    margin: 20px;
+    padding: 10px;
+    width: 30vw;
+    
+
+}
+.box2{
+    
+    background: url('img1.jpg')no-repeat center center/cover;
+    height: 55vh;
+    margin: 20px;
+    padding: 10px;
+    width: 30vw;
+
+    
+
+}
+.box3{
+    
+    background: url('img3.jpg')no-repeat center center/cover;
+    height: 55vh;
+    margin: 20px;
+    padding: 10px;
+    width: 30vw;
+}
+.items h3{
+    
+    margin-left: -3%;
+    margin-top: 73%;
+    width: 80%;
+    background-color: rgb(209, 150, 111);
+    height: 17%;
+    padding-left: 30px;
+    padding-top: 20px;
+    color: white;
+    
+}
+.fbh1{
+    margin-top: 50px;
+    margin-left: 31%;
+    font-size: 3rem;
+}.fbh2{
+    margin-left: 25%;
+    margin-right: 20%;
+    margin-top: -30px;
+    justify-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+
+
+
+
+.container{
+    
+    background: url('get\ start.jpg')no-repeat center center/cover;
+    height: 80vh;
+    
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 10px;
+}
+.container h1{
+    color: white;
+    font-size: 3.5rem;
+   
+    padding-top: 20%;
+    padding-left: 5%;
+}
+
+
+/* bottom  */
+.bottom p{
+    margin-left: 15%;
+    margin-right: 15%;
+    font-size: 1.2rem;
+}
+.bottom button{
+    margin-left: 45%;
+    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 1.3rem;
+    
+    background-color:rgb(209, 150, 111) ;
+    color: white;
+    border-color:rgb(209, 150, 111) ;
+    margin-bottom: 30px;
+}
+
+
+/* footer  */
+.fcontainer{
+    /* border: 2px solid red; */
+    height: 40vh;
+    /* width: 9vw; */
+    margin-left: .5%;
+    margin-right: .5%;
+    background-color: rgb(209, 150, 111);
+}
+.fcontainer h1{
+    font-size: 12px;
+}
+.fcontainer h3{
+    font-size: 10px;
+}
+.inner{
+    display: flex;
+    flex-direction: row;
+    /* margin: 50px 50px; */
+}
+.side1{
+ margin-left: 90px;
+ margin-right: 60px;
+}
+.side2{
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.side3{
+    margin-left: 60px;
+ margin-right: 60px;
+}
+.side4{
+    margin-left: 60px;
+ margin-right: 60px;
+}
+.side5{
+    margin-left: 60px;
+ margin-right: 90px;
+}
+.side5 img{
+
+    height: 20px;
+    width: 20px;
+    margin-right: 5px;
+}
+
+.fupper{
+   
+ margin-left: 40%;
+ margin-right: 30%;
+}
+.fupper img{
+    height: 40px;
+    width: 40px;
+    margin-left: 10px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+    
+}
